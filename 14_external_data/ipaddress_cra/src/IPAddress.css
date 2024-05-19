@@ -1,0 +1,13 @@
+h1 {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 60px;
+  margin: -15px;
+  padding-top: 140px;
+  text-align: center;
+}
+
+p {
+  color: #907400;
+  font-family: sans-serif;
+  text-align: center;
+}
